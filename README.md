@@ -2,8 +2,6 @@
 
 A cinematic, feature-rich code screenshot generator built with React.
 
-![Demo](https://i.imgur.com/8zKZfYl.gif)
-
 ## ✨ Features
 - 🌀 3D Hover Rotation
 - 🎤 Voice Control
@@ -12,3 +10,6 @@ A cinematic, feature-rich code screenshot generator built with React.
 - 💾 Save & Dashboard
 - 🌐 Shareable Links
 - 📱 Fully Responsive
+
+Deployed: 
+https://peaceful-smakager-706c25.netlify.app     
